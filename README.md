@@ -1,4 +1,6 @@
-# MS5611_NonBlocking
+# 
+MS5611_NonBlocking_Arduino_Library
+
 
 Developed this library after noticing several other libraries using the MS5611 barometric pressure sensor would block the main execution loop due to how this chip handles conversion. This library is very low profile and compatible with all arduino archetectures.
 
